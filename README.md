@@ -1,1 +1,1 @@
-# Synthetic-Data-Generator
+# Synthetic-Dataset-Generator

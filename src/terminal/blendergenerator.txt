@@ -1,0 +1,5 @@
+./blender "/home/sabal/code/spacecraft blender/latest/robot vision/Robot-Vision/local/working model/SciFi Crate Basefile.blend" --background --python "/home/sabal/code/spacecraft blender/latest/robot vision/Robot-Vision/data generator/runinblender.py"
+
+#mac
+./blender "/Users/sabaldahal/Desktop/College/WORK-RESEARCH LAB/spacecraft blender/src/v2/Robot-Vision/local/working model/update_dec_4_2025/SciFi Crate Basefile.blend" --background --python "/Users/sabaldahal/Desktop/College/WORK-RESEARCH LAB/spacecraft blender/src/v2/Robot-Vision/data generator/runinblender.py"
+
